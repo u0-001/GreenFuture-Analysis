@@ -1,2 +1,2 @@
 # GreenFuture-Analysis
-GreenFuture dataset
+GreenFuture dataset for analytics
